@@ -15,7 +15,7 @@ My implementation of the Asymmetrik Mobile Device Keyboard Programming Challenge
   - src/tests/TestAutocomplete.java: These are the JUnit tests for the program.
   
 ### How To Run
-cd into the bin
-  Run src/cmdLineInterpreter/Driver.java
+Included in the bin folder is a runnable jar codeChallenge.jar.
+ - ``java -jar bin/codeChallenge.jar`` will execute the runnable jar
  - Follow the prompt on the screen:
  - "Type (t) to train, (i) to input, and (q) to quit program"
